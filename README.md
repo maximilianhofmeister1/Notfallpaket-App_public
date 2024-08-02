@@ -25,7 +25,7 @@ Funktionen:
 
 die Notfallpaket-App besteht aus:
 - WebApp, die bequem über jedes Gerät geöffnet werden kann
-- IOS-App für iPhone und iPad (kurz vor Veröffentlichung im App Store)
+- IOS-App für iPhone und iPad ([im App Store anzeigen](https://apps.apple.com/app/notfallpaket-app/id6563147455))
 - E-Mail Ablauferinnerung jedes Monat
 
 <br>
@@ -61,7 +61,7 @@ Und dann wünsche ich viel Spaß bei der Nutzung 😀!
 
 Zugang zur Notfallpaket-App: <br>
 - Web-App 🖥️: [https://appnotfallpaket.aljoma.at/](https://appnotfallpaket.aljoma.at/)
-- IOS-App 📱: coming soon
+- IOS-App 📱: [im App Store anzeigen](https://apps.apple.com/app/notfallpaket-app/id6563147455)
 
 <br>
 

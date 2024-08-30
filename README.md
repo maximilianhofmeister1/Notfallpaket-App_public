@@ -71,6 +71,13 @@ Zugang zur Notfallpaket-App: <br>
 ![github2](https://github.com/user-attachments/assets/8a8aab0b-a929-4c4e-832f-63541cec409b)
 
 
+<br>
 
+
+## Version Changelog
+- V6.0.0 <br>
+coming soon
+- V5.2.0 <br>
+Ermöglicht schnelleres hinzufügen von Produkten durch intuitive Bedienung
 
 

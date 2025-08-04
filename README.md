@@ -27,12 +27,13 @@ die Notfallpaket-App besteht aus:
 - WebApp, die bequem über jedes Gerät geöffnet werden kann
 - IOS-App für iPhone und iPad ([im App Store anzeigen](https://apps.apple.com/app/notfallpaket-app/id6563147455))
 - E-Mail Ablauferinnerung jedes Monat
+- Push-Notifications in der IOS-App
 
 <br>
 
 aktuell im Backlog:
 - Registrierungsfunktion in der App
-- Push-Notifications in der IOS-App
+- Hilfeseite, um optimal für Blackout vorbereitet zu sein
 
 <br>
 
@@ -75,8 +76,10 @@ Zugang zur Notfallpaket-App: <br>
 
 
 ## Version Changelog
-- V6.0.0 <br>
+- V7.0.0 <br>
 coming soon
+- V6.0.0 <br>
+Push-Benachrichtigungen für Ablauferinnerung direkt am Smartphone, Fehlerbehebungen und Verbesserungen der User-Experience
 - V5.2.0 <br>
 Ermöglicht schnelleres hinzufügen von Produkten durch intuitive Bedienung
 
